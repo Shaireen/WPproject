@@ -1,4 +1,4 @@
-fetch("http://designhavn.dk/RecreateWebsite/wp-json/wp/v2/property?_embed")
+fetch("https://designhavn.dk/RecreateWebsite/wp-json/wp/v2/property?_embed")
     .then(function (response) {
         return response.json()
     })
