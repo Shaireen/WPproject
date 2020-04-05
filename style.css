@@ -54,7 +54,7 @@ p > span {
 }
 
 .view:hover {
-    background: #9e9d9d;
+    background: #97d4d5;
     color: black;
 }
 .flat > img {
@@ -88,7 +88,7 @@ p > span {
 
 .topnav a:hover {
     color: #00b7ba;
-    font-size: 1.4em;
+    font-weight: 700;
 }
 
 .properties {
@@ -114,9 +114,9 @@ p > span {
 }
 
 .topbutton:hover {
-   background: #9e9d9d;
+   background: #97d4d5;
     color: black;
-    border: 2px solid #9e9d9d;
+    border: 2px solid #97d4d5;
 
 }
 
